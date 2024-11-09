@@ -1,0 +1,17 @@
+
+# Test Cases for Static Array Operations
+insert(1), insert(2), delete(1), traverse()
+Expected Output: 2
+
+# Test Cases for Dynamic Array Operations
+insert(1), insert(2), delete(1), traverse()
+Expected Output: 2
+
+# Test Cases for String Operations
+Concatenate "hello" and "world" -> Expected Output: helloworld
+Substring "hello" from index 2 of length 3 -> Expected Output: llo
+Compare "abc" and "abc" -> Expected Output: true
+
+# Character Frequency
+Input: "hello"
+Expected Output: h: 1, e: 1, l: 2, o: 1
