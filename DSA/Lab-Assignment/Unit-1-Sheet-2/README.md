@@ -48,7 +48,6 @@ This lab assignment focuses on implementing and analyzing basic data structures 
 ## 📂 Project Structure
 - **main.cpp**: Implementation of static & dynamic arrays, string operations, and character frequency.
 - **README.md**: Project documentation, instructions, and algorithm analysis.
-- **test_cases.txt**: Sample inputs and expected outputs.
   
 ---
 
