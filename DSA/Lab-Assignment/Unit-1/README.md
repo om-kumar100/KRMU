@@ -12,8 +12,7 @@ This project is part of the Data Structures & Algorithms (DSA) course and focuse
 ## 📂 Project Structure
 - **main.cpp**: Contains the code for static and dynamic arrays, string operations, and character frequency.
 - **README.md**: Provides an overview of the project, instructions, and algorithm analysis.
-- **test_cases.txt**: Sample inputs and expected outputs to test the functionality.
-
+ 
 ---
 
 ## ⚙️ How to Run the Program
