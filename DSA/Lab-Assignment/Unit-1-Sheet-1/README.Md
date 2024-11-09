@@ -17,16 +17,12 @@ This project is part of the Data Structures & Algorithms (DSA) course and focuse
 ---
 
 ## ⚙️ How to Run the Program
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Compile the code using a C++ compiler:
+ 
+1. Compile the code using a C++ compiler:
    ```
    g++ main.cpp -o main
    ```
-3. Run the compiled program:
+2. Run the compiled program:
    ```
    ./main
    ```
