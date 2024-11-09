@@ -1,7 +1,7 @@
 
 
 
-# 📊 Data Structures Lab - Static & Dynamic Arrays, String Operations By  **Harshit Jaiswal (2301010397)** 
+# 📊 Data Structures Lab Sheet- 2,  - Static & Dynamic Arrays, String Operations By  **Harshit Jaiswal (2301010397)** 
 ## 📋 Course Information
 - **School of Engineering & Technology**
 - **Department**: SOET  
