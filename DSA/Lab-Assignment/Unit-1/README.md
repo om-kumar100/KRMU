@@ -110,7 +110,7 @@ This project is part of the Data Structures & Algorithms (DSA) course and focuse
 This project is for educational purposes and is open-source. Feel free to use, modify, and distribute it as needed.
 
 ## ✍️ Author
-This lab assignment was completed by students under the guidance of **Ms. Suman** for the **B.Tech Computer Science Engineering** program.
+This lab assignment was completed by Harshit Jaiswal  under the guidance of **Ms. Suman** for the **B.Tech Computer Science Engineering** program.
 
 ---
 
