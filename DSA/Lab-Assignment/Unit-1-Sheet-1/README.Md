@@ -1,7 +1,6 @@
 
 
-# 📊 Data Structures Lab - Sheet 1 ,- Static & Dynamic Arrays, String Operations by Harshit Jaiswal (2301010397)
-
+# 📊 Data Structures Lab - Sheet 1 ,- Static & Dynamic Arrays, String Operations  
 ## 🚀 Project Summary
 This project is part of the Data Structures & Algorithms (DSA) course and focuses on implementing basic data structures in C++:
 1. **Static and Dynamic Arrays**: Understanding the differences in performance and memory allocation.
