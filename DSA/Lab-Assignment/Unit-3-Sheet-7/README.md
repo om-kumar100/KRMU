@@ -28,5 +28,18 @@ The objective of this project is to implement a disaster response management sys
 
 ## Repository Contents
 - `main.cpp`: Contains the implementation of AVL Trees, Graphs, and algorithms.
-- `TestCases.cpp`: Contains the test cases for verifying the functionality.
+ 
 - `README.md`: Project documentation.
+
+
+
+## ✍️ Author
+This lab assignment was completed by **Harshit Jaiswal (2301010397)** under the guidance of **Ms. Suman** for the **B.Tech Computer Science Engineering** program.
+
+---
+
+## 📜 License
+This project is open-source for educational purposes. Feel free to use, modify, and distribute it.
+
+---
+: )
