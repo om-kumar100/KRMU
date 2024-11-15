@@ -83,5 +83,16 @@ This lab assignment focuses on implementing and analyzing basic data structures 
 
 ---
 
+
 ## ✍️ Author
-**Harshit Jaiswal (2301010397)**
+This lab assignment was completed by **Harshit Jaiswal (2301010397)** under the guidance of **Ms. Suman** for the **B.Tech Computer Science Engineering** program.
+
+---
+
+## 📜 License
+This project is open-source for educational purposes. Feel free to use, modify, and distribute it.
+ 
+---
+ : )
+ 
+
