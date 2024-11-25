@@ -34,7 +34,7 @@ The objective of this project is to implement a disaster response management sys
 
 
 ## ✍️ Author
-This lab assignment was completed by **Harshit Jaiswal (2301010397)** under the guidance of **Ms. Suman** for the **B.Tech Computer Science Engineering** program.
+This lab assignment was completed by **om kumar (2301010355)** under the guidance of **Ms. Suman** for the **B.Tech Computer Science Engineering** program.
 
 ---
 
